@@ -1,5 +1,5 @@
-I am learning animation ✏️
+- Animation ✏️
 
-I am pursuing game design 👾
+- Pursuing game design 👾
 
-I do graphic design 👨‍💻
+- Graphic design 👨‍💻
